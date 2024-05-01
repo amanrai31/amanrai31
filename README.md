@@ -58,6 +58,14 @@ ____
 </a>
 
 ____
+### My GitHub performance stats 📈
+<p align="center">
+  <a href="https://github.com/amanrai31">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanrai31&theme=radical&border=7F3FBF&background=0D1117" alt="Aman's GitHub streak"/>
+  </a>
+</p>
+
+____
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <p align="left">
