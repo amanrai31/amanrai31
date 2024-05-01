@@ -26,15 +26,18 @@ ____
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' alt="html" title="html5" width="40" height="40"/> 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' alt="css" title="css" width="40" height="40"/> 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' alt="JS" title="JS" width="40" height="40"/> 
+<img src="https://github.com/amanrai31/amanrai31/blob/main/images/TypeScript.svg" alt="TS" title="TS" width="50" height="45" >
 </p>
 
 #### Technologies
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>
+  <img src="https://github.com/amanrai31/amanrai31/blob/main/images/mongoDB.svg" alt="MongoDB" title="MongoDB" width="40" height="40">
  <img src="https://github.com/amanrai31/amanrai31/blob/main/images/nodeJS.svg" alt="nodeJS" title="nodeJS" width="40" height="40">
-<img src="" alt="NestJS" title="NestJS" width="40" height="40">
+<img src="https://github.com/amanrai31/amanrai31/blob/main/images/NestJS.svg" alt="NestJS" title="NestJS" width="40" height="40">
   <img src="https://github.com/amanrai31/amanrai31/blob/main/images/Next.svg" alt="NextJS" title="NextJS" width="40" height="40">
+  <img src="https://github.com/amanrai31/amanrai31/blob/main/images/React.svg" alt="ReactJS" title="ReactJS" width="40" height="40">
 </p>
 
 #### Tools
