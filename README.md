@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" align="right" height="270px" width="460px"> </img >
 </a>
 
-- :house: I'm currently living at Hyderabad City, India 🇮🇳.
+- :house: I'm currently living at Hyderabad, India 🇮🇳.
 - :computer: Working as a Fullstack Engineer.
 - :dart: Also working on my pet projects.
 - :racing_car: Rally Race.
@@ -71,6 +71,6 @@ ____
 <p align="left">
 <a href="https://linkedin.com/in/aman-rai-8a2289202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-rai-8a2289202" height="40" width="40" /></a>
 <a href="https://instagram.com/aman__rai___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman__rai___" height="40" width="40" /></a>
-<a href="https://twitter.com/AmanRai31"> <img src="https://github.com/amanrai31/amanrai31/blob/main/images/X.svg" height="40" width="40" align="center"></a>
-<a href="https://github.com/amanrai31/"> <img src="https://github.com/amanrai31/amanrai31/blob/main/images/github.svg" height="40" width="40" align="center"></a>
+<a href="https://twitter.com/AmanRai31" target="blank"> <img src="https://github.com/amanrai31/amanrai31/blob/main/images/X.svg" height="40" width="40" align="center"></a>
+<a href="https://github.com/amanrai31/" target="blank"> <img src="https://github.com/amanrai31/amanrai31/blob/main/images/github.svg" height="40" width="40" align="center"></a>
 </p>
