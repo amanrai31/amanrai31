@@ -33,7 +33,8 @@ ____
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>
  <img src="https://github.com/amanrai31/amanrai31/blob/main/nodejs.svg" alt="nodeJS" title="nodeJS" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/32px-NestJS.svg.png" alt="NestJS" title="NestJS" width="40" height="40">
+<img src="" alt="NestJS" title="NestJS" width="40" height="40">
+  <img src="https://github.com/amanrai31/amanrai31/blob/main/images/Next.svg" alt="NextJS" title="NextJS" width="40" height="40">
 </p>
 
 #### Tools
