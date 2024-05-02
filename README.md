@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" align="right" height="270px" width="460px"> </img >
 </a>
 
-- :house: I'm currently living at Hyderabad, India 🇮🇳.
+- :house: I'm currently living in Hyderabad, India 🇮🇳.
 - :computer: Working as a Fullstack Engineer.
 - :dart: Also working on my pet projects.
 - :racing_car: Rally Race.
