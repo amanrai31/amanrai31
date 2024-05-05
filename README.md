@@ -67,7 +67,7 @@ ____
 
 ____
 
-### :computer: Technologies I Love
+### Technologies I Love :computer:
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amanrai31&layout=compact">
 
