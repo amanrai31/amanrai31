@@ -2,9 +2,8 @@
 
 ### Software developer at <a href="https://www.jio.com/platforms/about-us/" target="_blank"> Jio Platforms limited. </a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <br>
-<a href="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" align="right" height="270px" width="460px"> </img >
-</a>
+ <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" align="right" height="270px" width="460px"> </img >
+
 
 - :house: I'm currently living in Hyderabad, India 🇮🇳.
 - :computer: Working as a Fullstack Engineer.
