@@ -12,7 +12,7 @@
 <br>
 
 ### 🚀 More about me 🔽 
-I am fullstack developer working at JPL with 1+ year experience. Feel free to reach out for any contribution or Freelance Projects. 
+I am fullstack developer working at JPL with 1.5 year experience. Feel free to reach out for any contribution or Freelance Projects. 
 </br></br></br>
 
 ____
